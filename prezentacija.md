@@ -19,7 +19,7 @@ Grammarly je alat koji provjerava pravopis, gramatiku i stil pisanja, omogućuju
 
 ---
 
-# Glavne značajke - Osnovne funkcionalnosti
+# Osnovne funkcionalnosti
 
 **Što Grammarly nudi?**  
 - Provjera pravopisa i gramatike u realnom vremenu.  
@@ -31,7 +31,7 @@ Grammarly je alat koji provjerava pravopis, gramatiku i stil pisanja, omogućuju
 
 ---
 
-# Glavne značajke - Napredne mogućnosti
+# Napredne mogućnosti
 
 **Dodatne funkcionalnosti (Premium verzija):**  
 - Detekcija plagijata.  
