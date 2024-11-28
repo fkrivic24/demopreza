@@ -1,8 +1,11 @@
 # Grammarly - Alat za Pisanje Bez Pogrešaka
 
 **Ime i prezime:** Filip Krivić
+
 **Studijski program:** Stručni prijediplomski studij Informacijske tehnologije  
+
 **Predmet:** Akademsko i tehničko pisanje  
+
 **Datum izrade:** 25.11.2024.
 
 ---
