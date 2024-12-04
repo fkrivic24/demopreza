@@ -1,4 +1,4 @@
-# Grammarly - Alat za pisanje ez pogrešaka
+# Grammarly - Alat za pisanje bez pogrešaka
 
 **Ime i prezime:** Filip Krivić
 
