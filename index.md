@@ -29,8 +29,7 @@ Grammarly je alat koji provjerava pravopis, gramatiku i stil pisanja, omogućuju
 - Preporuke za poboljšanje stila.  
 - Personalizirane analize tona pisanja.  
 
-*Screenshot:*  
-![Primjer funkcionalnosti](path/to/screenshot1.png)
+![Primjer funkcionalnosti](images/grammarly_screenshot1.png)
 
 ---
 
@@ -41,6 +40,8 @@ Grammarly je alat koji provjerava pravopis, gramatiku i stil pisanja, omogućuju
 - Preporuke za poboljšanje vokabulara.  
 - Specifične postavke za različite vrste pisanja (akademsko, poslovno).
 
+![Napredne funkcionalnosti](images/grammarly_premium.png)
+
 ---
 
 # Praktični primjeri
@@ -50,8 +51,7 @@ Grammarly je alat koji provjerava pravopis, gramatiku i stil pisanja, omogućuju
 2. Alat označava pravopisne i gramatičke pogreške.  
 3. Klikom na prijedlog ispravite pogrešku.  
 
-*Screenshot:*  
-![Primjer ispravljanja teksta](path/to/screenshot2.png)
+![Primjer ispravljanja teksta](images/grammarly_example.png)
 
 ---
 
@@ -62,6 +62,8 @@ Grammarly je alat koji provjerava pravopis, gramatiku i stil pisanja, omogućuju
 2. Registrirajte se besplatno.  
 3. Preuzmite dodatak za preglednik ili instalirajte desktop aplikaciju.
 
+![Instalacija Grammarlyja](images/grammarly_installation.png)
+
 ---
 
 # Kako započeti rad
@@ -71,8 +73,7 @@ Grammarly je alat koji provjerava pravopis, gramatiku i stil pisanja, omogućuju
 - Kopirajte ili napišite tekst koji želite provjeriti.  
 - Pratite prijedloge za ispravke.
 
-*Screenshot:*  
-![Grammarly u radu](path/to/screenshot3.png)
+![Grammarly u radu](images/grammarly_in_use.png)
 
 ---
 
@@ -125,4 +126,3 @@ Grammarly je koristan alat za svakodnevno i profesionalno pisanje. Korištenje a
 **Pitanja?**  
 Slobodno pitajte ako imate dodatnih pitanja o alatu Grammarly!
 
----
